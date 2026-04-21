@@ -1,0 +1,54 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+## name: MiRosePine (Mauve Midtone)
+## author: Custom
+## blurb: Mid-tone mauve background with bright pastel text and dark accents
+
+foreground               #f3c8dd
+background               #71557a
+selection_foreground     #ffffff
+selection_background     #3a345b
+
+cursor                   #4b1535
+cursor_text_color        #f3c8dd
+
+url_color                #d183a9
+
+active_tab_foreground    #f3c8dd
+active_tab_background    #4b1535
+inactive_tab_foreground  #d183a9
+inactive_tab_background  #3a345b
+
+active_border_color      #f3c8dd
+inactive_border_color    #3a345b
+
+# black
+color0   #3a345b
+color8   #4b1535
+
+# red
+color1   #e58b9c
+color9   #e58b9c
+
+# green
+color2   #a6c7a0
+color10  #a6c7a0
+
+# yellow
+color3   #ead49e
+color11  #ead49e
+
+# blue
+color4   #94aed1
+color12  #94aed1
+
+# magenta
+color5   #d183a9
+color13  #d183a9
+
+# cyan
+color6   #90c2c6
+color14  #90c2c6
+
+# white
+color7   #f3c8dd
+color15  #ffffff

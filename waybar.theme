@@ -1,0 +1,12 @@
+$HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
+/* To enable blur please make sure alpha is greater than 0 */
+@define-color bar-bg rgba(0, 0, 0, 0.1); 
+
+@define-color main-bg #71557a;
+@define-color main-fg #f3c8dd;
+
+@define-color wb-act-bg #3a345b;
+@define-color wb-act-fg #f3c8dd;
+
+@define-color wb-hvr-bg #d183a9;
+@define-color wb-hvr-fg #4b1535;
